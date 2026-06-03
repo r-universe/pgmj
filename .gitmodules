@@ -5,3 +5,6 @@
 [submodule "easyRaschBayes"]
 	path = easyRaschBayes
 	url = https://github.com/pgmj/easyraschbayes
+[submodule "leunbachR"]
+	path = leunbachR
+	url = https://github.com/pgmj/leunbachr
